@@ -1,140 +1,166 @@
-id: opecha:P000392
+id: P000392
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4884
   title: གསུང་འབུམ། དྲི་མེད་འོད་ཟེར། （དཔལ་བརྩེགས། མེས་པོའི་ཤུལ་བཞག）
-  volume:
+  author: ''
+  volumes:
     6fddda1e7d1e47a2944541d4c1610977:
       image_group_id: I1KG4886
       title: Volume 1 of gsung 'bum/_dri med 'od zer
       volume_number: 1
       total_pages: 392
+      base_file: v001.txt
     63bd6754bf974c718bbc700dca636c90:
       image_group_id: I1KG4887
       title: Volume 2 of gsung 'bum/_dri med 'od zer
       volume_number: 2
       total_pages: 414
+      base_file: v002.txt
     6296ee3a1b9a474aaae8dd10e8629089:
       image_group_id: I1KG4888
       title: Volume 3 of gsung 'bum/_dri med 'od zer
       volume_number: 3
       total_pages: 394
+      base_file: v003.txt
     ac109722f3da4552bcfc6f29bfe033f7:
       image_group_id: I1KG4889
       title: Volume 4 of gsung 'bum/_dri med 'od zer
       volume_number: 4
       total_pages: 338
+      base_file: v004.txt
     f0a0b72f12e44969b3b83bcf1480d8c4:
       image_group_id: I1KG4890
       title: Volume 5 of gsung 'bum/_dri med 'od zer
       volume_number: 5
       total_pages: 514
+      base_file: v005.txt
     b4ec557088c14d8098836658c464d50a:
       image_group_id: I1KG4891
       title: Volume 6 of gsung 'bum/_dri med 'od zer
       volume_number: 6
       total_pages: 516
+      base_file: v006.txt
     5ed04f3c996f4ad49d30ba3b3bfd64f5:
       image_group_id: I1KG4892
       title: Volume 7 of gsung 'bum/_dri med 'od zer
       volume_number: 7
       total_pages: 550
+      base_file: v007.txt
     f45982433d55448f83731ee4169e4446:
       image_group_id: I1KG4893
       title: Volume 8 of gsung 'bum/_dri med 'od zer
       volume_number: 8
       total_pages: 430
+      base_file: v008.txt
     d8bee18a776c44ab922d9062bd594547:
       image_group_id: I1KG4894
       title: Volume 9 of gsung 'bum/_dri med 'od zer
       volume_number: 9
       total_pages: 358
+      base_file: v009.txt
     59520362afef4e8dbd83c542703b453e:
       image_group_id: I1KG4895
       title: Volume 10 of gsung 'bum/_dri med 'od zer
       volume_number: 10
       total_pages: 366
+      base_file: v010.txt
     55933e37e74d45ce82d02f8b4ba43296:
       image_group_id: I1KG4896
       title: Volume 11 of gsung 'bum/_dri med 'od zer
       volume_number: 11
       total_pages: 374
+      base_file: v011.txt
     869942ddffba410f9229b6d58f148e9f:
       image_group_id: I1KG4897
       title: Volume 12 of gsung 'bum/_dri med 'od zer
       volume_number: 12
       total_pages: 394
+      base_file: v012.txt
     81b7df27ff8f4e9ebf756eef7ed1272f:
       image_group_id: I1KG4898
       title: Volume 13 of gsung 'bum/_dri med 'od zer
       volume_number: 13
       total_pages: 516
+      base_file: v013.txt
     ec99fdcb1ef84db4b46ce7669fbf6f65:
       image_group_id: I1KG4899
       title: Volume 14 of gsung 'bum/_dri med 'od zer
       volume_number: 14
       total_pages: 556
+      base_file: v014.txt
     31148194a02b441d829148dfbef62650:
       image_group_id: I1KG4900
       title: Volume 15 of gsung 'bum/_dri med 'od zer
       volume_number: 15
       total_pages: 510
+      base_file: v015.txt
     97491d618483484a86e30c98eaac2982:
       image_group_id: I1KG4901
       title: Volume 16 of gsung 'bum/_dri med 'od zer
       volume_number: 16
       total_pages: 434
+      base_file: v016.txt
     034fd3c29382484fb2c1d12604488f7b:
       image_group_id: I1KG4902
       title: Volume 17 of gsung 'bum/_dri med 'od zer
       volume_number: 17
       total_pages: 634
+      base_file: v017.txt
     0a093a6384ee4a7eab20083a81bd905b:
       image_group_id: I1KG4903
       title: Volume 18 of gsung 'bum/_dri med 'od zer
       volume_number: 18
       total_pages: 546
+      base_file: v018.txt
     05b2228df3ae4f82ad22b90631ba2e0e:
       image_group_id: I1KG4904
       title: Volume 19 of gsung 'bum/_dri med 'od zer
       volume_number: 19
       total_pages: 446
+      base_file: v019.txt
     56dcc12ef2214ffbb6ba4e2e28adb1b5:
       image_group_id: I1KG4905
       title: Volume 20 of gsung 'bum/_dri med 'od zer
       volume_number: 20
       total_pages: 498
+      base_file: v020.txt
     99ec3fc18895482190f4945bbd1d45e8:
       image_group_id: I1KG4906
       title: Volume 21 of gsung 'bum/_dri med 'od zer
       volume_number: 21
       total_pages: 598
+      base_file: v021.txt
     a266d802d7c84840b61ae47f58f9f692:
       image_group_id: I1KG4907
       title: Volume 22 of gsung 'bum/_dri med 'od zer
       volume_number: 22
       total_pages: 542
+      base_file: v022.txt
     3eeba3fda64e4419814b6e69550065c9:
       image_group_id: I1KG4908
       title: Volume 23 of gsung 'bum/_dri med 'od zer
       volume_number: 23
       total_pages: 598
+      base_file: v023.txt
     760c19de4d004bba9255dd225757343c:
       image_group_id: I1KG4909
       title: Volume 24 of gsung 'bum/_dri med 'od zer
       volume_number: 24
       total_pages: 454
+      base_file: v024.txt
     6fc05dad848e468ab3595cd890b8aa4e:
       image_group_id: I1KG4910
       title: Volume 25 of gsung 'bum/_dri med 'od zer
       volume_number: 25
       total_pages: 514
+      base_file: v025.txt
     45585e8e4fd54bc8875959ddd66be8d3:
       image_group_id: I1KG4911
       title: Volume 26 of gsung 'bum/_dri med 'od zer
       volume_number: 26
       total_pages: 342
-  author: ''
+      base_file: v026.txt
 ebook_metadata:
   title: གསུང་འབུམ། དྲི་མེད་འོད་ཟེར། （དཔལ་བརྩེགས། མེས་པོའི་ཤུལ་བཞག）
   author: ''
