@@ -1,5 +1,7 @@
 id: P000392
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG4884
   title: གསུང་འབུམ། དྲི་མེད་འོད་ཟེར། （དཔལ་བརྩེགས། མེས་པོའི་ཤུལ་བཞག）
@@ -161,10 +163,3 @@ source_metadata:
       volume_number: 26
       total_pages: 342
       base_file: v026.txt
-ebook_metadata:
-  title: གསུང་འབུམ། དྲི་མེད་འོད་ཟེར། （དཔལ་བརྩེགས། མེས་པོའི་ཤུལ་བཞག）
-  author: ''
-  sku: P000392
-  cover: cover.jpg
-  layers:
-  - pagination
