@@ -1,7 +1,7 @@
 id: P000392
 initial_creation_type: ocr
 created_at: 17/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:37:35.120589
 source_metadata:
   id: bdr:W1KG4884
   title: གསུང་འབུམ། དྲི་མེད་འོད་ཟེར། （དཔལ་བརྩེགས། མེས་པོའི་ཤུལ་བཞག）
@@ -163,3 +163,5 @@ source_metadata:
       volume_number: 26
       total_pages: 342
       base_file: v026.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
